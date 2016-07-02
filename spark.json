@@ -1,0 +1,7 @@
+{
+  "name": "ir-lib",
+  "author": "Chris Young; Ken Shirriff",
+  "license": "GNU",
+  "version": "1.51",
+  "description": "an Arduino library for infrared encoding and decoding"
+}
